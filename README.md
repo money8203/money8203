@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @money8203
-- 👀 I’m interested in open source contribution, learning new technologies, software development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on any project
+-  Hey👋, I'm Manish!
+
+- About Me 🚀
+
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
+
+👨‍💻 I am passionate about Programming, Technology, Software Development, Quantum World,  & I enjoy learning new things.
+
 - 📫 How to reach me manishtyagi088@gmail.com
 
 <!---
