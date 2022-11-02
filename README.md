@@ -12,13 +12,4 @@
 
    [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ManishT93598843) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/manish-tyagi-8b7b22217)
 
-#
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-<!---
-money8203/money8203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
