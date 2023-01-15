@@ -30,9 +30,8 @@
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-<!-- [Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
--->
+<!-- [Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
 </h1>
    
