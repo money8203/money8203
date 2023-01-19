@@ -61,7 +61,7 @@
 <br/>
     </div>
 
-##
+#
 
 <details open="">
 <summary>
@@ -81,6 +81,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=money8203&theme=dark&hide_border=true"/>
 </p>
+</details>
   
   <p align="center">
     <img
@@ -91,7 +92,19 @@
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=money8203&theme=react-dark&hide_border=true&area=true)
   
-</details>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
