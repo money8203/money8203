@@ -71,9 +71,9 @@
 <br/>
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=money8203&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=money8203&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=money8203&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=money8203&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </br>  
 
