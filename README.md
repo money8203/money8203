@@ -79,12 +79,12 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=money8203&theme=dark&hide_border=true"/>
 </p>
-</details>
   
   <p align="center">
     <img
       src="https://github-profile-trophy.vercel.app/?username=money8203&column=7&theme=juicyfresh&margin-w=15&margin-h=15&no-frame=true">
   </p>
+  </details>
   
 #
   
