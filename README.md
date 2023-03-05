@@ -15,7 +15,7 @@
 
 <h1 align = "center">
   
-  <a href="https://twitter.com/ManishT93598843" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://twitter.com/manishtyagi__" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/manish-tyagi-8b7b22217/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    <a href="https://hashnode.com/@manisht" target="_blank"><img alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/-Hashode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=darkblue"/>
 </a> <a href="https://www.instagram.com/manish_tyagi.__/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
