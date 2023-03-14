@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=money8203&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=money8203&theme=dark&hide_border=true"/>
 </p>
   
   <p align="center">
