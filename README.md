@@ -11,7 +11,7 @@
 - I enjoy learning and exploring new technologies and apply them to solve real world problems with like minded peers.
                                                                                                                                                      
    
-   ## 👩🏼‍🤝‍🧑🏻 Socials
+   ## 👩🏼‍🤝‍🧑🏻 Socialss
 
 <h1 align = "center">
   
