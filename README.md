@@ -1,13 +1,15 @@
 [![@money8203's Holopin board](https://holopin.io/api/user/board?user=money8203)](https://holopin.io/@money8203)
 
-## <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Manish</h1>
+## <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Manish</h1>
 
-- About Me 🚀
+# About Me 🚀
 
-🎓 I’m an Open Source Advocate & a DevRel enthusiast pursuing my bachelors in Computer Science & Engineering. 
+- I’m a DevRel and an Open Source Advocate who loves to help prople get started with their open source journey 
+ 
+🎓  Pursuing my bachelors in Computer Science & Engineering. 
 
-👨‍💻 I am passionate about Web Development, Cloud Computing, Artificial Intelligence, Software Development and Quantum Reality. 
-
+👨‍💻 Passionate about building and establishing developer relations around open-source communities to help scale their developer userbase & grow.   
+ 
 - I enjoy learning and exploring new technologies and apply them to solve real world problems with like minded peers.
                                                                                                                                                      
    
