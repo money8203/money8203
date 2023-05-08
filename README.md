@@ -8,9 +8,9 @@
  
 🎓  Pursuing my bachelors in Computer Science & Engineering. 
 
-👨‍💻 Passionate about building and establishing developer relations around open-source communities to help scale their developer 
-
-   <p> userbase & grow. </p>   
+👨‍💻 Passionate about building and establishing developer relations around open-source communities to help scale their developer                                 
+                                                                                                 
+   userbase & grow.
  
 - I enjoy learning and exploring new technologies and apply them to solve real world problems with like minded peers.
                                                                                                                                                      
