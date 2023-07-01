@@ -65,7 +65,7 @@
     </div>
 
 #
-
+<!--
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -89,7 +89,7 @@
   
 #
   
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=money8203&theme=react-dark&hide_border=true&area=true) -->
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=money8203&theme=react-dark&hide_border=true&area=true) -->
   
   
   
