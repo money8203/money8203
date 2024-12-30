@@ -20,9 +20,9 @@
 <h1 align = "center">
   
   <a href="https://twitter.com/manishtyagi__" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://www.linkedin.com/in/manish-tyagi-8b7b22217/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/manishty/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    <a href="https://hashnode.com/@manisht" target="_blank"><img alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/-Hashode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=darkblue"/>
-</a> <a href="https://www.instagram.com/manish_tyagi.__/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a> <a href="https://www.instagram.com/manishtyagi__/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </h1>
   
@@ -39,13 +39,12 @@
 <!-- [Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 <!-- 
 </h1>
-    -->
   
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
   
- **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
 
 <br/>
 <br/>
